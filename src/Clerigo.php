@@ -1,7 +1,7 @@
 <?php
 namespace Dsw\Rolgame;
 
-class Clerigo extends Personaje implements Curable
+class Clerigo extends Personaje implements Curable 
 {
   public $poderCurativo;
 
